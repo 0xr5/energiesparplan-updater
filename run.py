@@ -1,5 +1,5 @@
-# github.com/haze0001
-# haze#1337
+# github.com/0xr5
+# 0xr#0001
 import os
 import time
 # Variablen
